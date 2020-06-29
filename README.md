@@ -10,4 +10,6 @@ The original website of the YOLO project can be found in: https://pjreddie.com/d
 
 The video tutorial to train YOLOv3 on the cloud using Google Colab is: https://www.youtube.com/watch?v=10joRJt39Ns . This video was done by TheAIGuy and is a good start for training a YOLOv3 model if you don't have a powerful GPU available.
 
-This repository also includes the dataset used and the final file with the weights of the model trained.
+This repository also includes files needed to run the model: obj.data, obj.name, yolov3.custom.cfg. 
+
+The weights from the training can be found on this Google Drive link: https://drive.google.com/drive/folders/1OQY3hUkttkREiLhH4sAM0l89KYQgKwR0?usp=sharing . The file used in the final prototype was yolov3_custom_last.weights . 
