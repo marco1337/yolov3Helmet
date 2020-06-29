@@ -8,7 +8,7 @@ The model was also trained on the Google Colaboratory platform to test it.
 
 The original website of the YOLO project can be found in: https://pjreddie.com/darknet/yolo/.
 
-The video tutorial to train YOLOv3 on the cloud using Google Colab is: https://www.youtube.com/watch?v=10joRJt39Ns . This video was done by TheAIGuy and is a good start for training a YOLOv3 model if you don't have a powerful GPU available.
+The video tutorial to train YOLOv3 on the cloud using Google Colab is: https://www.youtube.com/watch?v=10joRJt39Ns . This video was done by TheAIGuy and is a good start for training a YOLOv3 model if you don't have a powerful GPU available. Please watch the video and follow the instructions in the video to get the correct notebook to train the model.
 
 This repository also includes files needed to run the model: obj.data, obj.name, yolov3.custom.cfg. 
 
