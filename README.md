@@ -1,4 +1,4 @@
-# Helmet detection usign YOLOv3
+# Helmet detection usign YOLOv3 using Google Colab
 
 This repository is a test project to use the algorith YOLOv3 and train a custom object detector for Helmet.
 
