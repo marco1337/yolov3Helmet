@@ -12,4 +12,6 @@ The video tutorial to train YOLOv3 on the cloud using Google Colab is: https://w
 
 This repository also includes files needed to run the model: obj.data, obj.name, yolov3.custom.cfg. 
 
+The obj.zip with all images and the annotation for each image can be found on this Googl Drive link: https://drive.google.com/file/d/1fwGm26XiaOrTLuEoTzsQr9Wv4bWkmq4Q/view?usp=sharing
+
 The weights from the training can be found on this Google Drive link: https://drive.google.com/drive/folders/1OQY3hUkttkREiLhH4sAM0l89KYQgKwR0?usp=sharing . The file used in the final prototype was yolov3_custom_last.weights . 
